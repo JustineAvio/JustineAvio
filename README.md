@@ -21,4 +21,6 @@ Hello, everyone! I am Justine Jeckho A. Avio, a class representative from BSIT -
 ---
 [![](https://visitcount.itsvg.in/api?id=JustineAvio&icon=3&color=13)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
