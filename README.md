@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JustineAvio/JustineAvio/output/snake.svg" alt="Snake animation" />
+<!--img src="https://raw.githubusercontent.com/JustineAvio/JustineAvio/output/snake.svg" alt="Snake animation" /-->
 
 ###
