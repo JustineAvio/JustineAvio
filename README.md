@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, everyone! I am Justine Jeckho A. Avio, a class<br>representative from BSIT - 2B in Cavite State University - Imus <br>Campus. I am an introverted average guy who wants to expand<br>my knowledge through applying learnings to obtain skills. <br>Finding a field of study in IT that fits to my skills.  
+Hello, everyone! I am Justine Jeckho A. Avio, a class representative from BSIT - 2B in Cavite State University - Imus Campus. I am an introverted average guy who wants to expand<br>my knowledge through applying learnings to obtain skills. Finding a field of study in IT that fits to my skills.  
 
 
 ## 🌐 Socials:
